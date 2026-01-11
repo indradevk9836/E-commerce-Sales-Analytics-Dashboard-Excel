@@ -26,6 +26,9 @@ This project focuses on analyzing e-commerce sales data using MS Excel to unders
 - Slicers & Filters  
 - Sales Analytics
 
+## Dashboard Preview
+![Dashboard Screenshot](image.png)
+
 ## Business Insights
 - Supports targeted marketing strategies
 - Helps identify high-performing sales channels
